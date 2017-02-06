@@ -1,0 +1,22 @@
+{
+  "name": "mobizon-net-ua",
+  "version": "1.0.0",
+  "description": "node.js client for sending SMS via the service Mobizon.net.ua",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKotlyarov/mobizonNetUa.git"
+  },
+  "keywords": [
+    "sms"
+  ],
+  "author": "Boris Kotlyarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisKotlyarov/mobizonNetUa/issues"
+  },
+  "homepage": "https://github.com/BorisKotlyarov/mobizonNetUa#readme"
+}
