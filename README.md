@@ -1,8 +1,14 @@
 # mobizon-net-ua
 node.js client for sending SMS via the service Mobizon.net.ua
 
-About Mobizon service: [UA](https://mobizon.net.ua/) | [EN](https://mobizon.com/)
-[Mobizon api documentation](http://docs.mobizon.com/api/)  
+##Install
+
+``` 
+npm install mobizon-net-ua
+```
+
+* About Mobizon service: [UA](https://mobizon.net.ua/) | [EN](https://mobizon.com/)
+* [Mobizon api documentation](http://docs.mobizon.com/api/)  
 
 ##Examples
 
