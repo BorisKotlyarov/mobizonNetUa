@@ -4,7 +4,7 @@ node.js client for sending SMS via the service Mobizon.net.ua
 ##Examples
 
 ###Send sms
-```#!javascript
+``` js
 const Mobizon = require('mobizon-net-ua');
 const smsGate = new Mobizon({token: 'YOUR_API_TOKEN'});
 
@@ -15,7 +15,7 @@ smsGate.sendSms('+380671234567', 'Very cool sms')
 ```
 
 ###Get sms status
-```#!javascript
+``` js
 const Mobizon = require('mobizon-net-ua');
 const smsGate = new Mobizon({token: 'YOUR_API_TOKEN'});
 
@@ -26,7 +26,7 @@ smsGate.getSmsStatus('12111324')
 ```
 
 ###Get balance
-```#!javascript
+``` js
 const Mobizon = require('mobizon-net-ua');
 const smsGate = new Mobizon({token: 'YOUR_API_TOKEN'});
 
